@@ -1,0 +1,237 @@
+footer
+{
+  color: white;
+  padding: 10px;
+}
+
+#logofooter
+{
+  font-weight: bold;
+}
+
+.login
+{
+  padding-top: 6%;
+  padding-left: 27%;
+}
+
+.register
+{
+  padding-top: 1%;
+  padding-left: 27%;
+}
+
+.search
+{
+  padding-top: 20px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#logo
+{
+	font-size: 30px;
+}
+
+.innerWrap
+{
+	width: 100%;
+}
+
+#con_res
+{
+	line-height: 32px;
+}
+
+ul li #jud_r
+{
+  font-weight: 600;
+  font-size: 30px;
+}
+
+.tabs .tab a
+{
+  color: #2196f3;
+}
+
+.tabs .tab a:hover
+{
+  color: #2196f3;
+}
+
+.tabs .indicator
+{
+  background-color: #2196f3;
+}
+
+main, header, footer
+{
+  padding-left: 300px;
+}
+
+.page_search main, header
+{
+  padding-left: 0px;
+}
+
+.page_search .container
+{
+  width: 70%;
+  margin: 0 auto;
+}
+
+.page_empty main, header
+{
+  padding-left: 0px;
+}
+
+.page_empty .container
+{
+  width: 70%;
+  margin: 0 auto;
+}
+
+#logo-container
+{
+  height: 57px;
+  margin-bottom: 32px;
+}
+
+ul.side-nav.fixed li.logo
+{
+  text-align: center;
+  margin-top: 32px;
+  margin-bottom: 70px;
+}
+
+ul.side-nav.fixed li.logo span.brand-logo
+{
+  font-size: 30px;
+  color: #2196F3;
+}
+
+.side-nav.fixed a
+{
+  color: #2196F3;
+}
+
+.side-nav li>a>i, .side-nav li>a>i.material-icons
+{
+  color: #2196F3;
+}
+
+.container
+{
+  width: 85%;
+}
+
+.card .card-content .gender
+{
+  display: inline-block;
+}
+
+.input-field .pay
+{
+  top: 0px;
+}
+
+.modal
+{
+  max-height: 85%;
+}
+
+.dropdown-content li>a
+{
+  color: #2196f3;
+}
+
+.side-nav a
+{
+  color: #2196f3;
+}
+
+.side-nav li.logo
+{
+  text-align: center;
+  margin-top: 32px;
+  margin-bottom: 70px;
+}
+
+.side-nav li.logo span.brand-logo
+{
+  font-size: 30px;
+  color: #2196F3;
+}
+
+.parallax img
+{
+  width: 100%;
+  height: 100%;
+}
+
+#judul
+{
+  position: absolute;
+  top: 40%;
+  left: 18%;
+}
+
+#judul span
+{
+  font-size: 5em;
+}
+
+.promo i
+{
+  margin: 40px 0;
+  font-size: 7rem;
+  display: block;
+  color: #26a69a;
+}
+
+.promo-caption
+{
+  font-size: 1.7rem;
+  font-weight: 500;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.judul1
+{
+  color: #26a69a;
+  font-weight: 500;
+}
+
+.parallax-window {
+    min-height: 600px;
+    background: transparent;
+}
+
+.page-footer ul li
+{
+  display: inline-block;
+  padding-left: 10px;
+}
+
+.sidebtn
+{
+  display: none;
+}
+
+
+ @media only screen and (max-width : 992px) {
+      header, main, footer {
+        padding-left: 0;
+      }
+
+      .sidebtn
+      {
+        display: inherit !important;
+      }
+
+      nav .brand-logo
+      {
+        left: 25%;
+      }
+}
